@@ -1,0 +1,2 @@
+ReactDOM.render(
+    <ul><li>JavaScript</li> <li><button>React</button></li><li>HTML and CSS</li></ul>, document.getElementById("root"))
